@@ -1,0 +1,11 @@
+/Users/andrey/Projects/month_number/month_number/obj/Debug/netcoreapp2.0/month_number.csprojResolveAssemblyReference.cache
+/Users/andrey/Projects/month_number/month_number/obj/Debug/netcoreapp2.0/month_number.csproj.CoreCompileInputs.cache
+/Users/andrey/Projects/month_number/month_number/obj/Debug/netcoreapp2.0/month_number.AssemblyInfoInputs.cache
+/Users/andrey/Projects/month_number/month_number/obj/Debug/netcoreapp2.0/month_number.AssemblyInfo.cs
+/Users/andrey/Projects/month_number/month_number/bin/Debug/netcoreapp2.0/month_number.deps.json
+/Users/andrey/Projects/month_number/month_number/bin/Debug/netcoreapp2.0/month_number.runtimeconfig.json
+/Users/andrey/Projects/month_number/month_number/bin/Debug/netcoreapp2.0/month_number.runtimeconfig.dev.json
+/Users/andrey/Projects/month_number/month_number/bin/Debug/netcoreapp2.0/month_number.dll
+/Users/andrey/Projects/month_number/month_number/bin/Debug/netcoreapp2.0/month_number.pdb
+/Users/andrey/Projects/month_number/month_number/obj/Debug/netcoreapp2.0/month_number.dll
+/Users/andrey/Projects/month_number/month_number/obj/Debug/netcoreapp2.0/month_number.pdb

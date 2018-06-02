@@ -1,0 +1,11 @@
+/Users/andrey/Projects/functions/functions/bin/Debug/netcoreapp2.0/functions.deps.json
+/Users/andrey/Projects/functions/functions/bin/Debug/netcoreapp2.0/functions.runtimeconfig.json
+/Users/andrey/Projects/functions/functions/bin/Debug/netcoreapp2.0/functions.runtimeconfig.dev.json
+/Users/andrey/Projects/functions/functions/bin/Debug/netcoreapp2.0/functions.dll
+/Users/andrey/Projects/functions/functions/bin/Debug/netcoreapp2.0/functions.pdb
+/Users/andrey/Projects/functions/functions/obj/Debug/netcoreapp2.0/functions.csprojResolveAssemblyReference.cache
+/Users/andrey/Projects/functions/functions/obj/Debug/netcoreapp2.0/functions.csproj.CoreCompileInputs.cache
+/Users/andrey/Projects/functions/functions/obj/Debug/netcoreapp2.0/functions.AssemblyInfoInputs.cache
+/Users/andrey/Projects/functions/functions/obj/Debug/netcoreapp2.0/functions.AssemblyInfo.cs
+/Users/andrey/Projects/functions/functions/obj/Debug/netcoreapp2.0/functions.dll
+/Users/andrey/Projects/functions/functions/obj/Debug/netcoreapp2.0/functions.pdb

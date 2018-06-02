@@ -1,0 +1,11 @@
+/Users/andrey/Projects/types/types/bin/Debug/netcoreapp2.0/types.deps.json
+/Users/andrey/Projects/types/types/bin/Debug/netcoreapp2.0/types.runtimeconfig.json
+/Users/andrey/Projects/types/types/bin/Debug/netcoreapp2.0/types.runtimeconfig.dev.json
+/Users/andrey/Projects/types/types/bin/Debug/netcoreapp2.0/types.dll
+/Users/andrey/Projects/types/types/bin/Debug/netcoreapp2.0/types.pdb
+/Users/andrey/Projects/types/types/obj/Debug/netcoreapp2.0/types.csprojResolveAssemblyReference.cache
+/Users/andrey/Projects/types/types/obj/Debug/netcoreapp2.0/types.csproj.CoreCompileInputs.cache
+/Users/andrey/Projects/types/types/obj/Debug/netcoreapp2.0/types.AssemblyInfoInputs.cache
+/Users/andrey/Projects/types/types/obj/Debug/netcoreapp2.0/types.AssemblyInfo.cs
+/Users/andrey/Projects/types/types/obj/Debug/netcoreapp2.0/types.dll
+/Users/andrey/Projects/types/types/obj/Debug/netcoreapp2.0/types.pdb
