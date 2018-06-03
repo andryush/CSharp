@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{B962B364-023E-4949-80A9-EF4B0E074ED2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="cube/Program.cs">
+    <Files>
+      <File FileName="cube/Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.cube PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,11 @@
+/Users/andrey/Projects/cube/cube/bin/Debug/netcoreapp2.0/cube.deps.json
+/Users/andrey/Projects/cube/cube/bin/Debug/netcoreapp2.0/cube.runtimeconfig.json
+/Users/andrey/Projects/cube/cube/bin/Debug/netcoreapp2.0/cube.runtimeconfig.dev.json
+/Users/andrey/Projects/cube/cube/bin/Debug/netcoreapp2.0/cube.dll
+/Users/andrey/Projects/cube/cube/bin/Debug/netcoreapp2.0/cube.pdb
+/Users/andrey/Projects/cube/cube/obj/Debug/netcoreapp2.0/cube.csprojResolveAssemblyReference.cache
+/Users/andrey/Projects/cube/cube/obj/Debug/netcoreapp2.0/cube.csproj.CoreCompileInputs.cache
+/Users/andrey/Projects/cube/cube/obj/Debug/netcoreapp2.0/cube.AssemblyInfoInputs.cache
+/Users/andrey/Projects/cube/cube/obj/Debug/netcoreapp2.0/cube.AssemblyInfo.cs
+/Users/andrey/Projects/cube/cube/obj/Debug/netcoreapp2.0/cube.dll
+/Users/andrey/Projects/cube/cube/obj/Debug/netcoreapp2.0/cube.pdb
