@@ -6,17 +6,26 @@ namespace cube
     {
         static void Main(string[] args)
         {
-            for (int i = 0; i < 5; i ++)
+            Console.WriteLine("Please enter a size ");
+            int size = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine("Please enter a symbol ");
+            string symbol = Console.ReadLine();
+
+            string table = "";
+
+            for (int i = 1; i < size; i++)
             {
                 
-                for (int j = 0; j < 5; j++)
+                for (int j = 1; j < size; j++)
                 {
-                    Console.Write("* ");
+                    table += symbol + " ";
+                    //table += Convert.ToString(i * j) + "\t";
                 }
-                Console.WriteLine();
+                table += "\n";
 
             }
-
+            Console.Write(table);
         }
     }
 }

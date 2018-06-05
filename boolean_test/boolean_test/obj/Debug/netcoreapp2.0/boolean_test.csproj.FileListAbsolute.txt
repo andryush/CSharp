@@ -1,0 +1,11 @@
+/Users/andrey/Projects/boolean_test/boolean_test/bin/Debug/netcoreapp2.0/boolean_test.deps.json
+/Users/andrey/Projects/boolean_test/boolean_test/bin/Debug/netcoreapp2.0/boolean_test.runtimeconfig.json
+/Users/andrey/Projects/boolean_test/boolean_test/bin/Debug/netcoreapp2.0/boolean_test.runtimeconfig.dev.json
+/Users/andrey/Projects/boolean_test/boolean_test/bin/Debug/netcoreapp2.0/boolean_test.dll
+/Users/andrey/Projects/boolean_test/boolean_test/bin/Debug/netcoreapp2.0/boolean_test.pdb
+/Users/andrey/Projects/boolean_test/boolean_test/obj/Debug/netcoreapp2.0/boolean_test.csprojResolveAssemblyReference.cache
+/Users/andrey/Projects/boolean_test/boolean_test/obj/Debug/netcoreapp2.0/boolean_test.csproj.CoreCompileInputs.cache
+/Users/andrey/Projects/boolean_test/boolean_test/obj/Debug/netcoreapp2.0/boolean_test.AssemblyInfoInputs.cache
+/Users/andrey/Projects/boolean_test/boolean_test/obj/Debug/netcoreapp2.0/boolean_test.AssemblyInfo.cs
+/Users/andrey/Projects/boolean_test/boolean_test/obj/Debug/netcoreapp2.0/boolean_test.dll
+/Users/andrey/Projects/boolean_test/boolean_test/obj/Debug/netcoreapp2.0/boolean_test.pdb
