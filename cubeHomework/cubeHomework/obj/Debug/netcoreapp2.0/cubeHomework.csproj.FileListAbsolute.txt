@@ -1,0 +1,11 @@
+/Users/andrey/Projects/cubeHomework/cubeHomework/bin/Debug/netcoreapp2.0/cubeHomework.deps.json
+/Users/andrey/Projects/cubeHomework/cubeHomework/bin/Debug/netcoreapp2.0/cubeHomework.runtimeconfig.json
+/Users/andrey/Projects/cubeHomework/cubeHomework/bin/Debug/netcoreapp2.0/cubeHomework.runtimeconfig.dev.json
+/Users/andrey/Projects/cubeHomework/cubeHomework/bin/Debug/netcoreapp2.0/cubeHomework.dll
+/Users/andrey/Projects/cubeHomework/cubeHomework/bin/Debug/netcoreapp2.0/cubeHomework.pdb
+/Users/andrey/Projects/cubeHomework/cubeHomework/obj/Debug/netcoreapp2.0/cubeHomework.csprojResolveAssemblyReference.cache
+/Users/andrey/Projects/cubeHomework/cubeHomework/obj/Debug/netcoreapp2.0/cubeHomework.csproj.CoreCompileInputs.cache
+/Users/andrey/Projects/cubeHomework/cubeHomework/obj/Debug/netcoreapp2.0/cubeHomework.AssemblyInfoInputs.cache
+/Users/andrey/Projects/cubeHomework/cubeHomework/obj/Debug/netcoreapp2.0/cubeHomework.AssemblyInfo.cs
+/Users/andrey/Projects/cubeHomework/cubeHomework/obj/Debug/netcoreapp2.0/cubeHomework.dll
+/Users/andrey/Projects/cubeHomework/cubeHomework/obj/Debug/netcoreapp2.0/cubeHomework.pdb
