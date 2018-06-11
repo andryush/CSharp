@@ -1,0 +1,11 @@
+/Users/andrey/Projects/chess/chess/bin/Debug/netcoreapp2.0/chess.deps.json
+/Users/andrey/Projects/chess/chess/bin/Debug/netcoreapp2.0/chess.runtimeconfig.json
+/Users/andrey/Projects/chess/chess/bin/Debug/netcoreapp2.0/chess.runtimeconfig.dev.json
+/Users/andrey/Projects/chess/chess/bin/Debug/netcoreapp2.0/chess.dll
+/Users/andrey/Projects/chess/chess/bin/Debug/netcoreapp2.0/chess.pdb
+/Users/andrey/Projects/chess/chess/obj/Debug/netcoreapp2.0/chess.csprojResolveAssemblyReference.cache
+/Users/andrey/Projects/chess/chess/obj/Debug/netcoreapp2.0/chess.csproj.CoreCompileInputs.cache
+/Users/andrey/Projects/chess/chess/obj/Debug/netcoreapp2.0/chess.AssemblyInfoInputs.cache
+/Users/andrey/Projects/chess/chess/obj/Debug/netcoreapp2.0/chess.AssemblyInfo.cs
+/Users/andrey/Projects/chess/chess/obj/Debug/netcoreapp2.0/chess.dll
+/Users/andrey/Projects/chess/chess/obj/Debug/netcoreapp2.0/chess.pdb

@@ -1,0 +1,11 @@
+/Users/andrey/Projects/triangleHomework/triangleHomework/bin/Debug/netcoreapp2.0/triangleHomework.deps.json
+/Users/andrey/Projects/triangleHomework/triangleHomework/bin/Debug/netcoreapp2.0/triangleHomework.runtimeconfig.json
+/Users/andrey/Projects/triangleHomework/triangleHomework/bin/Debug/netcoreapp2.0/triangleHomework.runtimeconfig.dev.json
+/Users/andrey/Projects/triangleHomework/triangleHomework/bin/Debug/netcoreapp2.0/triangleHomework.dll
+/Users/andrey/Projects/triangleHomework/triangleHomework/bin/Debug/netcoreapp2.0/triangleHomework.pdb
+/Users/andrey/Projects/triangleHomework/triangleHomework/obj/Debug/netcoreapp2.0/triangleHomework.csprojResolveAssemblyReference.cache
+/Users/andrey/Projects/triangleHomework/triangleHomework/obj/Debug/netcoreapp2.0/triangleHomework.csproj.CoreCompileInputs.cache
+/Users/andrey/Projects/triangleHomework/triangleHomework/obj/Debug/netcoreapp2.0/triangleHomework.AssemblyInfoInputs.cache
+/Users/andrey/Projects/triangleHomework/triangleHomework/obj/Debug/netcoreapp2.0/triangleHomework.AssemblyInfo.cs
+/Users/andrey/Projects/triangleHomework/triangleHomework/obj/Debug/netcoreapp2.0/triangleHomework.dll
+/Users/andrey/Projects/triangleHomework/triangleHomework/obj/Debug/netcoreapp2.0/triangleHomework.pdb

@@ -14,7 +14,7 @@ namespace cubeHomework
             {
                 for (int column = 0; column < n; column++)
                 {
-                    if (column > row)
+                    if (row >= n - column)
                     {
                         symbol += "- ";
 
