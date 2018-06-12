@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{9ACAF1D7-97B6-47D9-88C8-6C9CBFDE0FA6}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="chess/Program.cs">
     <Files>
-      <File FileName="chess/Program.cs" Line="50" Column="13" />
+      <File FileName="chess/Program.cs" Line="50" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

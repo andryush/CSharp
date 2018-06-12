@@ -7,23 +7,83 @@ namespace chess
        static string[,] chessFigures = {
                                  { "♜", "♞", "♝", "♚", "♛", "♝", "♞", "♜" },
                                  { "♟", "♟", "♟", "♟", "♟", "♟", "♟", "♟" },
-                                 { "♖ ", " ", " ", " ", " ", " ", " ", " " },
+                                 { " ", " ", " ", " ", " ", " ", " ", " " },
                                  { " ", " ", " ", " ", " ", " ", " ", " " },
                                  { " ", " ", " ", " ", " ", " ", " ", " " },
                                  { " ", " ", " ", " ", " ", " ", " ", " " },
                                  { "♙", "♙", "♙", "♙", "♙", "♙", "♙", "♙" },
                                  { "♖", "♘", "♗", "♔", "♕", "♗", "♘", "♖" }
                                };
+        static int n = 8;
+
 
         static void Main(string[] args)
         {
-            int n = 8;
+            bool running = true;
+
+
+            while(running)
+            {
+                string qayl = Console.ReadLine();
+                char[] tver = qayl.ToCharArray();
+                //Console.WriteLine(tver[0] - 97);
+                //Console.WriteLine(tver[1] - 49);
+                int m2 = tver[0] - 97;
+                int m1 = tver[1] - 49;
+                int m4 = tver[3] - 97;
+                int m3 = tver[4] - 49; 
+
+
+                if (qayl.Equals("quit") || qayl.Equals("exit"))
+                {
+                    running = false;
+                }
+                else 
+                {
+                    qaylAnel(m1, m2, m3, m4);
+                }
+                    
+
+
+
+
+
+            }
+            Console.WriteLine("EXIT ba dur@@@????");
+
+
+            //boardNkarel();
+
+
+
+            //figurnerNkarel();
+
+
+
+
+
+        }
+
+
+
+        public static void qaylAnel(int ai, int aj, int bi, int bj)
+        {
+            
+
+            string oldFigure = chessFigures[bi, bj];
+            chessFigures[bi, bj] = chessFigures[ai, aj];
+            chessFigures[ai, aj] = " ";
+            if (oldFigure != " ")
+            {
+                Console.WriteLine("You have got " + oldFigure);
+            }
+            figurnerNkarel();
+
+        }
+
+        public static void boardNkarel()
+        {
             string board = "";
-            string chess = "";
-            //string[] figures = { "♜", "♞", "♝", "♚", "♛", "♝", "♞", "♜" };
-
-            //nkarec board@
-
             for (int i = 0; i < n; i++)
             {
                 for (int j = 0; j < n; j++)
@@ -43,36 +103,41 @@ namespace chess
 
 
             }
-            Console.Write(board);
+            Console.WriteLine(board);
+        }// end of function boardNkarel()
 
-            //qayl anel
-            qaylAnel(0, 1, 2, 0);
-
-
-            // nkarel figurner@
+        public static void figurnerNkarel()
+        {
+            string chess = "";
             for (int i = 0; i < n; i++)
             {
                 for (int j = 0; j < n; j++)
                 {
-                    chess += chessFigures[i, j] + " ";
+                    if (chessFigures[i, j] != " ")
+                    {
+                        chess += chessFigures[i, j] + " ";
+                    }
+                    else
+                    {
+                        if ((i + j) % 2 == 0)
+                        {
+                            chess += "  ";
+
+                        }
+                        else
+                        {
+                            chess += "▀ ";
+                        }   
+                    }
+
+
+
                 }
                 chess += "\n";
             }
             Console.Write(chess);
         }
-        public static void qaylAnel(int ai, int aj, int bi, int bj)
-        {
-            
 
-            string oldFigure = chessFigures[bi, bj];
-            chessFigures[bi, bj] = chessFigures[ai, aj];
-            chessFigures[ai, aj] = " ";
-            if (oldFigure != " ")
-            {
-                Console.WriteLine("You have got " + oldFigure);
-            }
-
-        }
     }
 
 }
