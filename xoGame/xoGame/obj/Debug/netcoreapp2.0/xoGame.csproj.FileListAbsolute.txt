@@ -1,0 +1,11 @@
+C:\Users\andre\source\repos\xoGame\xoGame\bin\Debug\netcoreapp2.0\xoGame.deps.json
+C:\Users\andre\source\repos\xoGame\xoGame\bin\Debug\netcoreapp2.0\xoGame.runtimeconfig.json
+C:\Users\andre\source\repos\xoGame\xoGame\bin\Debug\netcoreapp2.0\xoGame.runtimeconfig.dev.json
+C:\Users\andre\source\repos\xoGame\xoGame\bin\Debug\netcoreapp2.0\xoGame.dll
+C:\Users\andre\source\repos\xoGame\xoGame\bin\Debug\netcoreapp2.0\xoGame.pdb
+C:\Users\andre\source\repos\xoGame\xoGame\obj\Debug\netcoreapp2.0\xoGame.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\xoGame\xoGame\obj\Debug\netcoreapp2.0\xoGame.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\xoGame\xoGame\obj\Debug\netcoreapp2.0\xoGame.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\xoGame\xoGame\obj\Debug\netcoreapp2.0\xoGame.AssemblyInfo.cs
+C:\Users\andre\source\repos\xoGame\xoGame\obj\Debug\netcoreapp2.0\xoGame.dll
+C:\Users\andre\source\repos\xoGame\xoGame\obj\Debug\netcoreapp2.0\xoGame.pdb
