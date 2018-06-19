@@ -1,0 +1,11 @@
+/Users/andrey/Projects/class-homework/class-homework/bin/Debug/netcoreapp2.0/class-homework.deps.json
+/Users/andrey/Projects/class-homework/class-homework/bin/Debug/netcoreapp2.0/class-homework.runtimeconfig.json
+/Users/andrey/Projects/class-homework/class-homework/bin/Debug/netcoreapp2.0/class-homework.runtimeconfig.dev.json
+/Users/andrey/Projects/class-homework/class-homework/bin/Debug/netcoreapp2.0/class-homework.dll
+/Users/andrey/Projects/class-homework/class-homework/bin/Debug/netcoreapp2.0/class-homework.pdb
+/Users/andrey/Projects/class-homework/class-homework/obj/Debug/netcoreapp2.0/class-homework.csprojResolveAssemblyReference.cache
+/Users/andrey/Projects/class-homework/class-homework/obj/Debug/netcoreapp2.0/class-homework.csproj.CoreCompileInputs.cache
+/Users/andrey/Projects/class-homework/class-homework/obj/Debug/netcoreapp2.0/class-homework.AssemblyInfoInputs.cache
+/Users/andrey/Projects/class-homework/class-homework/obj/Debug/netcoreapp2.0/class-homework.AssemblyInfo.cs
+/Users/andrey/Projects/class-homework/class-homework/obj/Debug/netcoreapp2.0/class-homework.dll
+/Users/andrey/Projects/class-homework/class-homework/obj/Debug/netcoreapp2.0/class-homework.pdb

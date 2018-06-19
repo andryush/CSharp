@@ -6,8 +6,10 @@ namespace xoGame
     {
         static void Main(string[] args)
         {
+            Random rand = new Random();
             int movesDone = 0;
             bool winner = true;
+            bool wrongTurn = true;
             char player = 'X';
             char[,] board = new char[3, 3];
 
@@ -19,13 +21,39 @@ namespace xoGame
             {
                 Console.Clear();
                 Print(board);
-                Console.Write("Please enter a row: ");
-                int i = Convert.ToInt32(Console.ReadLine());
+                if (player == 'X')
+                {
+                    Console.Write("Please enter a row: ");
+                    int i = Convert.ToInt32(Console.ReadLine());
 
-                Console.Write("Please enter a col: ");
-                int j = Convert.ToInt32(Console.ReadLine());
+                    Console.Write("Please enter a col: ");
+                    int j = Convert.ToInt32(Console.ReadLine());
 
-                board[i, j] = player;
+                    board[i, j] = player;
+                }
+                else if(player == 'O')
+                {
+                    while (wrongTurn)
+                    {
+                        int r = rand.Next(3);
+                        int c = rand.Next(3);
+                        Console.Write(r + " " + " " + c);
+                        if (board[r, c] == ' ')
+                        {
+                            board[r, c] = player;
+                            wrongTurn = false;
+                        }
+                        else
+                        {
+                            wrongTurn = true;
+                        }
+
+                    }
+                }
+
+
+
+
 
                 if (player == board[0, 0] && player == board[0, 1] && player == board[0, 2] ||
                     player == board[1, 0] && player == board[1, 1] && player == board[1, 2] ||
@@ -37,6 +65,7 @@ namespace xoGame
                     player == board[0, 2] && player == board[1, 1] && player == board[2, 0])
                 {
                     Console.WriteLine(player + " win the game");
+                    Print(board);
                     winner = false;
                 }
                 movesDone += 1;
@@ -47,11 +76,12 @@ namespace xoGame
                 }
                 
                 player = ChangePlayer(player);
+                wrongTurn = true;
                 
 
                 
             }
-            Console.ReadLine();
+            //Console.ReadLine();
 
         }
 

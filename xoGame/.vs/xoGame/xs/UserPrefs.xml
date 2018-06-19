@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{F2B0DA5F-F486-4D1E-BDC6-911671DCF27D}|Default">
+  <MonoDevelop.Ide.ItemProperties.xoGame PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="xoGame/Program.cs">
+    <Files>
+      <File FileName="xoGame/Program.cs" Line="83" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
