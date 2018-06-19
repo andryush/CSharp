@@ -9,3 +9,14 @@
 /Users/andrey/Projects/class-homework/class-homework/obj/Debug/netcoreapp2.0/class-homework.AssemblyInfo.cs
 /Users/andrey/Projects/class-homework/class-homework/obj/Debug/netcoreapp2.0/class-homework.dll
 /Users/andrey/Projects/class-homework/class-homework/obj/Debug/netcoreapp2.0/class-homework.pdb
+C:\Users\andre\source\repos\CSharp\class-homework\class-homework\bin\Debug\netcoreapp2.0\class-homework.deps.json
+C:\Users\andre\source\repos\CSharp\class-homework\class-homework\bin\Debug\netcoreapp2.0\class-homework.runtimeconfig.json
+C:\Users\andre\source\repos\CSharp\class-homework\class-homework\bin\Debug\netcoreapp2.0\class-homework.runtimeconfig.dev.json
+C:\Users\andre\source\repos\CSharp\class-homework\class-homework\bin\Debug\netcoreapp2.0\class-homework.dll
+C:\Users\andre\source\repos\CSharp\class-homework\class-homework\bin\Debug\netcoreapp2.0\class-homework.pdb
+C:\Users\andre\source\repos\CSharp\class-homework\class-homework\obj\Debug\netcoreapp2.0\class-homework.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\CSharp\class-homework\class-homework\obj\Debug\netcoreapp2.0\class-homework.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\CSharp\class-homework\class-homework\obj\Debug\netcoreapp2.0\class-homework.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\CSharp\class-homework\class-homework\obj\Debug\netcoreapp2.0\class-homework.AssemblyInfo.cs
+C:\Users\andre\source\repos\CSharp\class-homework\class-homework\obj\Debug\netcoreapp2.0\class-homework.dll
+C:\Users\andre\source\repos\CSharp\class-homework\class-homework\obj\Debug\netcoreapp2.0\class-homework.pdb

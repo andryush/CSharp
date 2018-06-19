@@ -11,12 +11,13 @@ namespace classhomework
 
             Student andrey = new Student();
             //andrey.firstName = "Andrey";
-            andrey.printParams();
+            //andrey.printParams();
             Student garegin = new Student("NSOTT", "GG");
 
-            Student.university = "EPH";
+           // Student.university = "EPH";
             garegin.printParams();
-            andrey.printParams();
+            //andrey.printParams();
+            Console.ReadKey();
         }
 
     }
