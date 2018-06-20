@@ -29,7 +29,16 @@ namespace ClassHomework2
         public string GetKuzov(int year)
         {
             this.year = year;
-            if (this.model == "3 SERIES" && this.year =  )
+            if (this.model == "3 SERIES" && this.year >= 1975 && this.year <= 1983)
+            {
+                return "E21";
+            }
+            else if (this.model == "3 SERIES" && this.year >= 1984 && this.year <= 1994)
+            {
+                return "E30";
+            }
+
+
         }
 
         public Auto(string brand, string model, double engineSize)

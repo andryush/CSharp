@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{C37DDD26-5ABC-457D-A620-5C0CB07D3DD8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ClassHomework2/Auto.cs">
+    <Files>
+      <File FileName="ClassHomework2/Auto.cs" Line="14" Column="34" />
+      <File FileName="ClassHomework2/Program.cs" Line="13" Column="31" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ClassHomework2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

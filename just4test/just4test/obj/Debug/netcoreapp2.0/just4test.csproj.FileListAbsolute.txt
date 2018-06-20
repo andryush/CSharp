@@ -1,0 +1,11 @@
+/Users/andrey/Projects/just4test/just4test/bin/Debug/netcoreapp2.0/just4test.deps.json
+/Users/andrey/Projects/just4test/just4test/bin/Debug/netcoreapp2.0/just4test.runtimeconfig.json
+/Users/andrey/Projects/just4test/just4test/bin/Debug/netcoreapp2.0/just4test.runtimeconfig.dev.json
+/Users/andrey/Projects/just4test/just4test/bin/Debug/netcoreapp2.0/just4test.dll
+/Users/andrey/Projects/just4test/just4test/bin/Debug/netcoreapp2.0/just4test.pdb
+/Users/andrey/Projects/just4test/just4test/obj/Debug/netcoreapp2.0/just4test.csprojResolveAssemblyReference.cache
+/Users/andrey/Projects/just4test/just4test/obj/Debug/netcoreapp2.0/just4test.csproj.CoreCompileInputs.cache
+/Users/andrey/Projects/just4test/just4test/obj/Debug/netcoreapp2.0/just4test.AssemblyInfoInputs.cache
+/Users/andrey/Projects/just4test/just4test/obj/Debug/netcoreapp2.0/just4test.AssemblyInfo.cs
+/Users/andrey/Projects/just4test/just4test/obj/Debug/netcoreapp2.0/just4test.dll
+/Users/andrey/Projects/just4test/just4test/obj/Debug/netcoreapp2.0/just4test.pdb
