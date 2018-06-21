@@ -8,7 +8,7 @@ namespace just4test
         {
             float pictures = 52f;
             float inOneRow = 3f;
-            float totalRows = pictures % inOneRow;
+            float totalRows = pictures / inOneRow;
             Console.WriteLine(totalRows);
         }
     }

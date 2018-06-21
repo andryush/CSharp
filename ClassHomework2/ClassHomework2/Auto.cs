@@ -21,6 +21,54 @@ namespace ClassHomework2
         public int width;
         public int heigth;
 
+        private int x;
+        public int y;
+        public int speed;
+
+        private bool isEngineOn;
+
+        public int GetX()
+        {
+            return x;
+        }
+
+        public void SetX(int x)
+        {
+            if(x > 0 && x < 100)
+            {
+                this.x = x;
+            }
+        }
+
+        public void engineOn()
+        {
+            if (!isEngineOn)
+            {
+                isEngineOn = true;
+            }
+        }
+
+        public void moveTo(int dx, int dy)
+        {
+            if(isEngineOn)
+            {
+                this.x += dx;
+                this.y += dy;   
+            }
+            else
+            {
+                Console.WriteLine("Can't move because engine is OFF");    
+            }
+
+        }
+
+        public void printPosition()
+        {
+            Console.WriteLine(x + " " + y + " " + speed);
+        }
+
+
+
         public void GeneralSpecs()
         {
             Console.WriteLine(this.brand + " " + this.model + " " + this.engineSize);
@@ -37,6 +85,10 @@ namespace ClassHomework2
             {
                 return "E30";
             }
+            else
+            {
+                return "";   
+            }
 
 
         }
@@ -46,6 +98,23 @@ namespace ClassHomework2
             this.brand = brand;
             this.model = model;
             this.engineSize = engineSize;
+        }
+
+        public Auto(string brand, string model, double engineSize, bool isEngineOn)
+        {
+            this.brand = brand;
+            this.model = model;
+            this.engineSize = engineSize;
+            this.isEngineOn = isEngineOn;
+        }
+
+
+        public Auto(int x, int y, int speed, bool isEngineOn)
+        {
+            this.x = x;
+            this.y = y;
+            this.speed = speed;
+            this.isEngineOn = isEngineOn;
         }
 
     }

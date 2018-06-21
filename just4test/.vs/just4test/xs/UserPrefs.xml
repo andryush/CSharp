@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{937CF74D-391B-4FFC-8265-76FC166A43F4}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="just4test/Program.cs">
     <Files>
-      <File FileName="just4test/Program.cs" Line="9" Column="13" />
+      <File FileName="just4test/Program.cs" Line="14" Column="6" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
@@ -10,5 +10,5 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.just4test PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.just4test PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
