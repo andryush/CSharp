@@ -10,6 +10,7 @@ namespace just4test
             float inOneRow = 3f;
             float totalRows = pictures / inOneRow;
             Console.WriteLine(totalRows);
+		//test
         }
     }
 }
