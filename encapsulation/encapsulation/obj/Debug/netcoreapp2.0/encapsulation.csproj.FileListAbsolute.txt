@@ -1,0 +1,11 @@
+/Users/andrey/Projects/encapsulation/encapsulation/bin/Debug/netcoreapp2.0/encapsulation.deps.json
+/Users/andrey/Projects/encapsulation/encapsulation/bin/Debug/netcoreapp2.0/encapsulation.runtimeconfig.json
+/Users/andrey/Projects/encapsulation/encapsulation/bin/Debug/netcoreapp2.0/encapsulation.runtimeconfig.dev.json
+/Users/andrey/Projects/encapsulation/encapsulation/bin/Debug/netcoreapp2.0/encapsulation.dll
+/Users/andrey/Projects/encapsulation/encapsulation/bin/Debug/netcoreapp2.0/encapsulation.pdb
+/Users/andrey/Projects/encapsulation/encapsulation/obj/Debug/netcoreapp2.0/encapsulation.csprojResolveAssemblyReference.cache
+/Users/andrey/Projects/encapsulation/encapsulation/obj/Debug/netcoreapp2.0/encapsulation.csproj.CoreCompileInputs.cache
+/Users/andrey/Projects/encapsulation/encapsulation/obj/Debug/netcoreapp2.0/encapsulation.AssemblyInfoInputs.cache
+/Users/andrey/Projects/encapsulation/encapsulation/obj/Debug/netcoreapp2.0/encapsulation.AssemblyInfo.cs
+/Users/andrey/Projects/encapsulation/encapsulation/obj/Debug/netcoreapp2.0/encapsulation.dll
+/Users/andrey/Projects/encapsulation/encapsulation/obj/Debug/netcoreapp2.0/encapsulation.pdb

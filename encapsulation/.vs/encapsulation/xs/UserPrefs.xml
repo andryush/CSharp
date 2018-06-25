@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{D6B91028-9583-438C-AD4C-BAD7C4727380}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="encapsulation/Student.cs">
+    <Files>
+      <File FileName="encapsulation/Program.cs" Line="21" Column="26" />
+      <File FileName="encapsulation/Student.cs" Line="53" Column="24" />
+      <File FileName="encapsulation/Adress.cs" Line="21" Column="44" />
+      <File FileName="encapsulation/Katnasun.cs" Line="20" Column="10" />
+      <File FileName="encapsulation/Mard.cs" Line="13" Column="39" />
+      <File FileName="encapsulation/Erajisht.cs" Line="12" Column="40" />
+      <File FileName="encapsulation/Test.cs" Line="9" Column="11" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.encapsulation PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
