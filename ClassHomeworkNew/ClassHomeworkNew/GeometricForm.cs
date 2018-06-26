@@ -4,14 +4,21 @@ using System.Text;
 
 namespace ClassHomeworkNew
 {
-    class GeometricForm
+   public class GeometricForm
     {
         public double pi = Math.PI;
 
         public int length;
         public int width;
+        public int heigth;
         public int radius;
-        
+
+        public void Makeres()
+        {
+           
+        }
 
     }
+
+
 }

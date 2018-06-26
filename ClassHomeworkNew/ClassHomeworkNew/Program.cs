@@ -6,7 +6,10 @@ namespace ClassHomeworkNew
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            GeometricForm rectangle = new GeometricForm();
+            Console.WriteLine(rectangle.Makeres(4, 5));
+
+
         }
     }
 }
