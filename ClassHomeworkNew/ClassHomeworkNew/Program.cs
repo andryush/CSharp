@@ -6,8 +6,15 @@ namespace ClassHomeworkNew
     {
         static void Main(string[] args)
         {
-            GeometricForm rectangle = new GeometricForm();
-            Console.WriteLine(rectangle.Makeres(4, 5));
+
+            GeometricForm newform = new GeometricForm();
+
+            newform.Length = 5;
+            newform.Age = 140;
+
+
+            //Console.WriteLine(newform.Age);
+
 
 
         }

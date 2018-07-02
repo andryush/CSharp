@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{0D5D1E5F-C0D1-441E-8D78-7B72BA02245E}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="ClassHomeworkNew/GeometricForm.cs">
     <Files>
-      <File FileName="ClassHomeworkNew/Program.cs" Line="12" Column="13" />
-      <File FileName="ClassHomeworkNew/GeometricForm.cs" Line="16" Column="30" />
+      <File FileName="ClassHomeworkNew/Program.cs" Line="13" Column="13" />
+      <File FileName="ClassHomeworkNew/GeometricForm.cs" Line="18" Column="16" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

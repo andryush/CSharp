@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/andrey/Projects/ClassHomeworkNew/ClassHomeworkNew/ClassHomeworkNew.csproj",
+      "projectUniqueName": "/Users/andrey/Projects/CSharp/ClassHomeworkNew/ClassHomeworkNew/ClassHomeworkNew.csproj",
       "projectName": "ClassHomeworkNew",
-      "projectPath": "/Users/andrey/Projects/ClassHomeworkNew/ClassHomeworkNew/ClassHomeworkNew.csproj",
+      "projectPath": "/Users/andrey/Projects/CSharp/ClassHomeworkNew/ClassHomeworkNew/ClassHomeworkNew.csproj",
       "packagesPath": "/Users/andrey/.nuget/packages/",
-      "outputPath": "/Users/andrey/Projects/ClassHomeworkNew/ClassHomeworkNew/obj",
+      "outputPath": "/Users/andrey/Projects/CSharp/ClassHomeworkNew/ClassHomeworkNew/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

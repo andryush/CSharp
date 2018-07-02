@@ -6,12 +6,32 @@ namespace ClassHomeworkNew
 {
    public class GeometricForm
     {
-        public double pi = Math.PI;
+        public double PI { get; set; } = Math.PI;
 
-        public int length;
-        public int width;
-        public int heigth;
-        public int radius;
+        private int age;
+        public int Age 
+        {
+            get
+            {
+                return age;
+            }
+            set
+            {
+                if ( value > 0 && value < 145)
+                {
+                    age = value;
+                }
+                else
+                {
+                    Console.WriteLine("Out of range");
+                }
+            }
+        }
+
+        public int Length { get; set; }
+        public int Width  { get; set; }
+        public int Heigth { get; set; }
+        public int Radius { get; set; }
 
         public void Makeres()
         {
