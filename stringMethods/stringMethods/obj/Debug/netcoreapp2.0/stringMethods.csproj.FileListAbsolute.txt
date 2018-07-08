@@ -1,0 +1,11 @@
+/Users/andrey/Projects/stringMethods/stringMethods/bin/Debug/netcoreapp2.0/stringMethods.deps.json
+/Users/andrey/Projects/stringMethods/stringMethods/bin/Debug/netcoreapp2.0/stringMethods.runtimeconfig.json
+/Users/andrey/Projects/stringMethods/stringMethods/bin/Debug/netcoreapp2.0/stringMethods.runtimeconfig.dev.json
+/Users/andrey/Projects/stringMethods/stringMethods/bin/Debug/netcoreapp2.0/stringMethods.dll
+/Users/andrey/Projects/stringMethods/stringMethods/bin/Debug/netcoreapp2.0/stringMethods.pdb
+/Users/andrey/Projects/stringMethods/stringMethods/obj/Debug/netcoreapp2.0/stringMethods.csprojResolveAssemblyReference.cache
+/Users/andrey/Projects/stringMethods/stringMethods/obj/Debug/netcoreapp2.0/stringMethods.csproj.CoreCompileInputs.cache
+/Users/andrey/Projects/stringMethods/stringMethods/obj/Debug/netcoreapp2.0/stringMethods.AssemblyInfoInputs.cache
+/Users/andrey/Projects/stringMethods/stringMethods/obj/Debug/netcoreapp2.0/stringMethods.AssemblyInfo.cs
+/Users/andrey/Projects/stringMethods/stringMethods/obj/Debug/netcoreapp2.0/stringMethods.dll
+/Users/andrey/Projects/stringMethods/stringMethods/obj/Debug/netcoreapp2.0/stringMethods.pdb
