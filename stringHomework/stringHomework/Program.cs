@@ -7,8 +7,11 @@ namespace stringHomework
         static void Main(string[] args)
         {
             string MyText = "This too shall pass";
+            MyText = MyText.ToLower();
 
-            Console.WriteLine("Hello World!");
+            string Alphabet = "abcdefghijklmnopqrstuvwxyz";
+
+            Console.WriteLine(MyText.Length);
         }
     }
 }

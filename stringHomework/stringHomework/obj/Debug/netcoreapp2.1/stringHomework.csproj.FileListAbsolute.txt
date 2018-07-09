@@ -1,0 +1,11 @@
+/Users/andrey/Projects/CSharp/stringHomework/stringHomework/bin/Debug/netcoreapp2.1/stringHomework.deps.json
+/Users/andrey/Projects/CSharp/stringHomework/stringHomework/bin/Debug/netcoreapp2.1/stringHomework.runtimeconfig.json
+/Users/andrey/Projects/CSharp/stringHomework/stringHomework/bin/Debug/netcoreapp2.1/stringHomework.runtimeconfig.dev.json
+/Users/andrey/Projects/CSharp/stringHomework/stringHomework/bin/Debug/netcoreapp2.1/stringHomework.dll
+/Users/andrey/Projects/CSharp/stringHomework/stringHomework/bin/Debug/netcoreapp2.1/stringHomework.pdb
+/Users/andrey/Projects/CSharp/stringHomework/stringHomework/obj/Debug/netcoreapp2.1/stringHomework.csprojResolveAssemblyReference.cache
+/Users/andrey/Projects/CSharp/stringHomework/stringHomework/obj/Debug/netcoreapp2.1/stringHomework.csproj.CoreCompileInputs.cache
+/Users/andrey/Projects/CSharp/stringHomework/stringHomework/obj/Debug/netcoreapp2.1/stringHomework.AssemblyInfoInputs.cache
+/Users/andrey/Projects/CSharp/stringHomework/stringHomework/obj/Debug/netcoreapp2.1/stringHomework.AssemblyInfo.cs
+/Users/andrey/Projects/CSharp/stringHomework/stringHomework/obj/Debug/netcoreapp2.1/stringHomework.dll
+/Users/andrey/Projects/CSharp/stringHomework/stringHomework/obj/Debug/netcoreapp2.1/stringHomework.pdb
