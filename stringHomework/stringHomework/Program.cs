@@ -6,11 +6,13 @@ namespace stringHomework
     {
         static void Main(string[] args)
         {
-            string MyText = "This too shall pass";
-            MyText = MyText.ToLower();
+            string MyText = "This too shall pass".ToLower();
+            char symbol = ' ';
 
-            string Alphabet = "abcdefghijklmnopqrstuvwxyz";
-
+            for (int i = 0; i < MyText.Length; i++)
+            {
+                   
+            }
             Console.WriteLine(MyText.Length);
         }
     }
