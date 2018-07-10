@@ -4,67 +4,92 @@ namespace stringHomework
 {
     class Program
     {
+        public static string myText = "This too shall passwxyz".ToLower();
+        public static string alphabet = "abcdefghijklmnopqrstuvwxyz";
+        public static string result = string.Empty;
+
+        public static int key = 3;
+        public static int position;
+        public static int positionKey;
+
+        public static char eachChar = ' ';
+
         static void Main(string[] args)
         {
-            string myText = "This too shall pass".ToLower();
-            string alphabet = "abcdefghijklmnopqrstuvwxyz";
-            string result = string.Empty;
-
-            int key = 3;
-            int position;
-            int positionKey;
-            
-            char eachChar = ' ';
-
-
             //Console.WriteLine(Encode(myText));
-            Console.WriteLine(Decode("wklvcwrrcvkdoocsdvvw"));
+            //Console.WriteLine(Decode("wklvcwrrcvkdoocsdvvzabc"));
 
+            string myText = "Text for decode".ToLower();
+            string decoded = string.Empty;
 
-            //Function for text Encoding
-            string Encode(string textToEncode)
+            for (int i = 0; i < myText.Length; i++)
             {
-                for (int i = 0; i < textToEncode.Length; i++)
-                {
-                    eachChar = textToEncode[i];
-                    position = alphabet.IndexOf(eachChar);
-                    if ((position + key) > alphabet.Length)
-                    {
-                        positionKey = position - 0;
-                    }
-                    else
-                    {
-                        positionKey = position + key;
-                    }
-                    
-                    result += alphabet[positionKey];
-                }
-                return result;
-            }
+                char x = myText[i];
 
-            //Function for Decoding
-            string Decode(string textToDecode)
+                int keyCode = (int)x;
+                if (x != ' ')
+                {
+                    keyCode += i;
+                }
+
+                char newChar = (char)keyCode;
+                decoded += newChar;
+
+            }
+            Console.WriteLine(decoded);
+
+
+        }
+
+        //Function for text Encoding
+        public static string Encode(string textToEncode)
+        {
+            for (int i = 0; i < textToEncode.Length; i++)
             {
-                for (int i = 0; i < textToDecode.Length; i++)
-                {
-                    eachChar = textToDecode[i];
-                    position = alphabet.IndexOf(eachChar);
-                    if((position - key) < alphabet.IndexOf("a"))
-                    {
-                        positionKey = position + 0;
-                    }
-                    else
-                    {
-                        positionKey = position - key;
-                    }
-                    
-                    result += alphabet[positionKey];
-                }
-                return result;
+                eachChar = textToEncode[i];
+                position = alphabet.IndexOf(eachChar);
+                //if ((position + key) >= alphabet.Length)
+                //{
+                positionKey = (position + key) % alphabet.Length;
+                //positionKey = position + 0;
+                //}
+                //else
+                //{
+                //    positionKey = (position + key) % alphabet.Length;
+                //}
+                ////if(position >= (alphabet.Length - key))
+                ////{
+                //    position %= (alphabet.Length - key); 
+                ////}
+
+                result += alphabet[positionKey];
             }
+            return result;
+        }
+
+        //Function for Decoding
+        public static string Decode(string textToDecode)
+        {
+            for (int i = 0; i < textToDecode.Length; i++)
+            {
+                eachChar = textToDecode[i];
+                position = alphabet.IndexOf(eachChar);
+                if ((position - key) < 0)
+                {
+                    positionKey = (position - key) + alphabet.Length;
+                }
+                else
+                {
+                    positionKey = position - key;
+                }
+
+                result += alphabet[positionKey];
+            }
+            return result;
 
 
-            Console.ReadLine();
+            //Console.ReadLine();
         }
     }
 }
+
