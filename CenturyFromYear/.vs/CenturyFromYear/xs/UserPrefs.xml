@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{C1088C06-70C3-4A60-9FF4-07ADDB650022}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CenturyFromYear/Program.cs">
+    <Files>
+      <File FileName="CenturyFromYear/Program.cs" Line="24" Column="33" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CenturyFromYear PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,11 @@
+/Users/andrey/Projects/recursion/recursion/bin/Debug/netcoreapp2.1/recursion.deps.json
+/Users/andrey/Projects/recursion/recursion/bin/Debug/netcoreapp2.1/recursion.runtimeconfig.json
+/Users/andrey/Projects/recursion/recursion/bin/Debug/netcoreapp2.1/recursion.runtimeconfig.dev.json
+/Users/andrey/Projects/recursion/recursion/bin/Debug/netcoreapp2.1/recursion.dll
+/Users/andrey/Projects/recursion/recursion/bin/Debug/netcoreapp2.1/recursion.pdb
+/Users/andrey/Projects/recursion/recursion/obj/Debug/netcoreapp2.1/recursion.csprojResolveAssemblyReference.cache
+/Users/andrey/Projects/recursion/recursion/obj/Debug/netcoreapp2.1/recursion.csproj.CoreCompileInputs.cache
+/Users/andrey/Projects/recursion/recursion/obj/Debug/netcoreapp2.1/recursion.AssemblyInfoInputs.cache
+/Users/andrey/Projects/recursion/recursion/obj/Debug/netcoreapp2.1/recursion.AssemblyInfo.cs
+/Users/andrey/Projects/recursion/recursion/obj/Debug/netcoreapp2.1/recursion.dll
+/Users/andrey/Projects/recursion/recursion/obj/Debug/netcoreapp2.1/recursion.pdb

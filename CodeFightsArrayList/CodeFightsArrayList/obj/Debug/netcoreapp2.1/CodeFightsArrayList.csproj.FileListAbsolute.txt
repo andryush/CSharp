@@ -1,0 +1,11 @@
+/Users/andrey/Projects/CodeFightsArrayList/CodeFightsArrayList/bin/Debug/netcoreapp2.1/CodeFightsArrayList.deps.json
+/Users/andrey/Projects/CodeFightsArrayList/CodeFightsArrayList/bin/Debug/netcoreapp2.1/CodeFightsArrayList.runtimeconfig.json
+/Users/andrey/Projects/CodeFightsArrayList/CodeFightsArrayList/bin/Debug/netcoreapp2.1/CodeFightsArrayList.runtimeconfig.dev.json
+/Users/andrey/Projects/CodeFightsArrayList/CodeFightsArrayList/bin/Debug/netcoreapp2.1/CodeFightsArrayList.dll
+/Users/andrey/Projects/CodeFightsArrayList/CodeFightsArrayList/bin/Debug/netcoreapp2.1/CodeFightsArrayList.pdb
+/Users/andrey/Projects/CodeFightsArrayList/CodeFightsArrayList/obj/Debug/netcoreapp2.1/CodeFightsArrayList.csprojResolveAssemblyReference.cache
+/Users/andrey/Projects/CodeFightsArrayList/CodeFightsArrayList/obj/Debug/netcoreapp2.1/CodeFightsArrayList.csproj.CoreCompileInputs.cache
+/Users/andrey/Projects/CodeFightsArrayList/CodeFightsArrayList/obj/Debug/netcoreapp2.1/CodeFightsArrayList.AssemblyInfoInputs.cache
+/Users/andrey/Projects/CodeFightsArrayList/CodeFightsArrayList/obj/Debug/netcoreapp2.1/CodeFightsArrayList.AssemblyInfo.cs
+/Users/andrey/Projects/CodeFightsArrayList/CodeFightsArrayList/obj/Debug/netcoreapp2.1/CodeFightsArrayList.dll
+/Users/andrey/Projects/CodeFightsArrayList/CodeFightsArrayList/obj/Debug/netcoreapp2.1/CodeFightsArrayList.pdb

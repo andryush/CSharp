@@ -1,0 +1,11 @@
+/Users/andrey/Projects/CenturyFromYear/CenturyFromYear/bin/Debug/netcoreapp2.1/CenturyFromYear.deps.json
+/Users/andrey/Projects/CenturyFromYear/CenturyFromYear/bin/Debug/netcoreapp2.1/CenturyFromYear.runtimeconfig.json
+/Users/andrey/Projects/CenturyFromYear/CenturyFromYear/bin/Debug/netcoreapp2.1/CenturyFromYear.runtimeconfig.dev.json
+/Users/andrey/Projects/CenturyFromYear/CenturyFromYear/bin/Debug/netcoreapp2.1/CenturyFromYear.dll
+/Users/andrey/Projects/CenturyFromYear/CenturyFromYear/bin/Debug/netcoreapp2.1/CenturyFromYear.pdb
+/Users/andrey/Projects/CenturyFromYear/CenturyFromYear/obj/Debug/netcoreapp2.1/CenturyFromYear.csprojResolveAssemblyReference.cache
+/Users/andrey/Projects/CenturyFromYear/CenturyFromYear/obj/Debug/netcoreapp2.1/CenturyFromYear.csproj.CoreCompileInputs.cache
+/Users/andrey/Projects/CenturyFromYear/CenturyFromYear/obj/Debug/netcoreapp2.1/CenturyFromYear.AssemblyInfoInputs.cache
+/Users/andrey/Projects/CenturyFromYear/CenturyFromYear/obj/Debug/netcoreapp2.1/CenturyFromYear.AssemblyInfo.cs
+/Users/andrey/Projects/CenturyFromYear/CenturyFromYear/obj/Debug/netcoreapp2.1/CenturyFromYear.dll
+/Users/andrey/Projects/CenturyFromYear/CenturyFromYear/obj/Debug/netcoreapp2.1/CenturyFromYear.pdb
